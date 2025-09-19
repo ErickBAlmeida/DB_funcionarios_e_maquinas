@@ -15,7 +15,6 @@ Este projeto tem como objetivo gerenciar colaboradores e máquinas de uma empres
 ## Requisitos
 - Python 3.11+
 - SQLite3
-- openpyxl (para manipulação de arquivos Excel)
 
 ## Como executar
 1. Instale as dependências:
