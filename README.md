@@ -20,7 +20,7 @@ Este projeto tem como objetivo gerenciar colaboradores e máquinas de uma empres
 ## Como executar
 1. Instale as dependências:
    ```bash
-   pip install openpyxl
+   pip install -r requirements.txt
    ```
 2. Execute o arquivo principal:
    ```bash
