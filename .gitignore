@@ -3,3 +3,4 @@ UI_antigo.py
 index.py
 venv/
 .env
+*.bd
